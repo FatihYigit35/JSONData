@@ -1,0 +1,26 @@
+[
+  {
+    "isim": "Muz",
+    "kalori": "77 Kilokalori",
+    "karbonhidrat": "Karbonhidrat: 23 gram",
+    "protein": "Protein: 1.1 gram",
+    "yag": "Yag: 0.3 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+  {
+    "isim": "Ceviz",
+    "kalori": "654 Kilokalori",
+    "karbonhidrat": "Karbonhidrat: 13.7 gram",
+    "protein": "Protein: 15.2 gram",
+    "yag": "Yag: 65.2 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/ceviz.png"
+  },
+  {
+    "isim": "Elma",
+    "kalori": "47 Kilokalori",
+    "karbonhidrat": "Karbonhidrat: 12.4 gram",
+    "protein": "Protein: 0.2 gram",
+    "yag": "Yag: 0.1 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/elma.png"
+  }
+]
