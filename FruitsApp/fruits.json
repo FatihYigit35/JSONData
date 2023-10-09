@@ -1,26 +1,26 @@
 [
   {
-    "isim": "Muz",
-    "kalori": "77 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 23 gram",
-    "protein": "Protein: 1.1 gram",
-    "yag": "Yag: 0.3 gram",
-    "gorsel": "https://raw.githubusercontent.com/FatihYigit35/JSONDatas/main/FruitsApp/banana.png"
+    "name": "Banana",
+    "calories": "77 kcal",
+    "carbohydrate": "23g",
+    "protein": "1.1g",
+    "fat": "0.3g",
+    "image": "https://raw.githubusercontent.com/FatihYigit35/JSONDatas/main/FruitsApp/banana.png"
   },
   {
-    "isim": "Ceviz",
-    "kalori": "654 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 13.7 gram",
-    "protein": "Protein: 15.2 gram",
-    "yag": "Yag: 65.2 gram",
-    "gorsel": "https://raw.githubusercontent.com/FatihYigit35/JSONDatas/main/FruitsApp/walnut.png"
+    "name": "Ceviz",
+    "calories": "654 kcal",
+    "carbohydrate": "13.7g",
+    "protein": "15.2 gram",
+    "fat": "65.2g",
+    "image": "https://raw.githubusercontent.com/FatihYigit35/JSONDatas/main/FruitsApp/walnut.png"
   },
   {
-    "isim": "Elma",
-    "kalori": "47 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 12.4 gram",
-    "protein": "Protein: 0.2 gram",
-    "yag": "Yag: 0.1 gram",
-    "gorsel": "https://raw.githubusercontent.com/FatihYigit35/JSONDatas/main/FruitsApp/apple.png"
+    "name": "Elma",
+    "calories": "47 kcal",
+    "carbohydrate": "12.4g",
+    "protein": "0.2g",
+    "fat": "0.1g",
+    "image": "https://raw.githubusercontent.com/FatihYigit35/JSONDatas/main/FruitsApp/apple.png"
   }
 ]
