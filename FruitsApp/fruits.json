@@ -1,6 +1,7 @@
 [
   {
     "name": "Banana",
+    "description":"A banana is the common name for a type of fruit and also the name for the herbaceous plants that grow it. These plants belong to the genus Musa. They are native to the tropical region of southeast Asia.",
     "calories": "77 kcal",
     "carbohydrate": "23g",
     "protein": "1.1g",
@@ -9,6 +10,7 @@
   },
   {
     "name": "Walnut",
+    "description":"Walnut trees, genus Juglans, are plants which mostly grow in the northern hemisphere. They can reach ten to forty metres (30-130 ft) in height. They are used for timber. The wood is very hard, and dark in color. It is mostly used in furniture.",
     "calories": "654 kcal",
     "carbohydrate": "13.7g",
     "protein": "15.2 gram",
@@ -17,6 +19,7 @@
   },
   {
     "name": "Apple",
+    "description":"An apple is the edible fruit of a number of trees, known for its juicy, green, or red fruits. The tree (Malus spp.) is grown worldwide. Its fruit is low-cost, popular, and common all over the earth.",
     "calories": "47 kcal",
     "carbohydrate": "12.4g",
     "protein": "0.2g",
