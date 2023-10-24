@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Muz",
+    "description":"Güneydoğu Asya'nın tropikal bölgelerinde doğal olarak yetişen bir ağaçsı bitkiye ve bu bitkinin yeşil kabuklu (bazı türlerinde kırmızı veya pembe kabuklu) uzun meyvelerine denir.",
+    "calories": "77 kcal",
+    "carbohydrate": "23g",
+    "protein": "1.1g",
+    "fat": "0.3g",
+    "vitamins": "A, B, C",
+    "image": "https://raw.githubusercontent.com/FatihYigit35/JSONDatas/main/FruitsVegetablesNutsApp/Fruits/Images/banana.png"
+  },
+  {
+    "name": "Ceviz",
+    "description":"Juglandaceae (cevizgiller) familyasının Juglans cinsinden, tek tüysü yaprakları karşılıklı dizilmiş ve aromatik kokulu ağaç türlerinin ve bu ağaçların meyvelerinin ortak adı.",
+    "calories": "654 kcal",
+    "carbohydrate": "13.7g",
+    "protein": "15.2 gram",
+    "fat": "65.2g",
+    "vitamins": "A, B, C",
+    "image": "https://raw.githubusercontent.com/FatihYigit35/JSONDatas/main/FruitsVegetablesNutsApp/Fruits/Images/walnut.png"
+  },
+  {
+    "name": "Elma",
+    "description":"Elma, sulu, yeşil veya kırmızı meyveleriyle bilinen, birçok ağacın yenilebilir meyvesidir. Ağaç dünya çapında yetiştirilmektedir. Meyvesi ucuzdur, popülerdir ve dünyanın her yerinde yaygındır.",
+    "calories": "47 kcal",
+    "carbohydrate": "12.4g",
+    "protein": "0.2g",
+    "fat": "0.1g",
+    "vitamins": "A, B, C",
+    "image": "https://raw.githubusercontent.com/FatihYigit35/JSONDatas/main/FruitsVegetablesNutsApp/Fruits/Images/apple.png"
+  }
+]
