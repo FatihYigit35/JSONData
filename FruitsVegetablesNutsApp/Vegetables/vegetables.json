@@ -7,7 +7,7 @@
     "protein": "1.1g",
     "fat": "0.3g",
     "vitamins": "A, B, C",
-    "image": "https://raw.githubusercontent.com/FatihYigit35/JSONDatas/main/FruitsApp/banana.png"
+    "image": "https://raw.githubusercontent.com/FatihYigit35/JSONData/main/FruitsApp/banana.png"
   },
   {
     "name": "Walnut",
@@ -17,7 +17,7 @@
     "protein": "15.2 gram",
     "fat": "65.2g",
     "vitamins": "A, B, C",
-    "image": "https://raw.githubusercontent.com/FatihYigit35/JSONDatas/main/FruitsApp/walnut.png"
+    "image": "https://raw.githubusercontent.com/FatihYigit35/JSONData/main/FruitsApp/walnut.png"
   },
   {
     "name": "Apple",
@@ -27,6 +27,6 @@
     "protein": "0.2g",
     "fat": "0.1g",
     "vitamins": "A, B, C",
-    "image": "https://raw.githubusercontent.com/FatihYigit35/JSONDatas/main/FruitsApp/apple.png"
+    "image": "https://raw.githubusercontent.com/FatihYigit35/JSONData/main/FruitsApp/apple.png"
   }
 ]
