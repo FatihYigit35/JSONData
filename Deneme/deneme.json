@@ -1,0 +1,2163 @@
+[
+    {
+        "id": 2445,
+        "name": "Bayan Makyaj Aynası",
+        "slug": "test",
+        "permalink": "https://www.soomaskart.com/product/test/",
+        "date_created": "2024-03-11T10:27:18",
+        "date_created_gmt": "2024-03-11T10:27:18",
+        "date_modified": "2024-03-11T16:54:11",
+        "date_modified_gmt": "2024-03-11T16:54:11",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Bayan Makyaj Aynısı</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+        "short_description": "",
+        "sku": "",
+        "price": "20",
+        "regular_price": "20",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": false,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 40,
+                "name": "MAKYAJ",
+                "slug": "beauty"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 2460,
+                "date_created": "2024-03-11T16:53:28",
+                "date_created_gmt": "2024-03-11T16:53:28",
+                "date_modified": "2024-03-11T16:53:28",
+                "date_modified_gmt": "2024-03-11T16:53:28",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2024/03/kalp-formunda-cep-aynasi-kc5006117-1-099279cb6b5f4571a1637bc4745ee7de.jpg",
+                "name": "kalp-formunda-cep-aynasi&#8211;kc5006117-1-099279cb6b5f4571a1637bc4745ee7de",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8378;</span>20,00</bdi></span>",
+        "related_ids": [
+            2420
+        ],
+        "meta_data": [
+            {
+                "id": 5893,
+                "key": "_wp_page_template",
+                "value": "default"
+            },
+            {
+                "id": 5911,
+                "key": "dfiFeatured",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "id": 5912,
+                "key": "product_image_on_hover",
+                "value": "yes"
+            },
+            {
+                "id": 5913,
+                "key": "custom_tab_priority1",
+                "value": "40"
+            },
+            {
+                "id": 5914,
+                "key": "custom_tab_priority2",
+                "value": "41"
+            },
+            {
+                "id": 5915,
+                "key": "header_view",
+                "value": "default"
+            },
+            {
+                "id": 5916,
+                "key": "layout",
+                "value": "right-sidebar"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products/2445"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2440,
+        "name": "Kadın Çanta",
+        "slug": "kadin-canta",
+        "permalink": "https://www.soomaskart.com/product/kadin-canta/",
+        "date_created": "2024-03-09T08:51:48",
+        "date_created_gmt": "2024-03-09T08:51:48",
+        "date_modified": "2024-03-09T08:52:57",
+        "date_modified_gmt": "2024-03-09T08:52:57",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Kadın Çanta</p>\n<p>SK.5423.7115467.78</p>\n",
+        "short_description": "",
+        "sku": "PT0003-3-1",
+        "price": "399",
+        "regular_price": "399",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": 0,
+        "download_expiry": 0,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 81,
+                "name": "ÇANTA",
+                "slug": "toys"
+            }
+        ],
+        "tags": [
+            {
+                "id": 129,
+                "name": "çanta",
+                "slug": "canta"
+            }
+        ],
+        "images": [
+            {
+                "id": 2441,
+                "date_created": "2024-03-09T08:52:22",
+                "date_created_gmt": "2024-03-09T08:52:22",
+                "date_modified": "2024-03-09T08:52:28",
+                "date_modified_gmt": "2024-03-09T08:52:28",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2024/03/kadin-canta-portfoy-kagit-ip-64886ee70798d.webp",
+                "name": "kadin-canta-portfoy-kagit-ip-64886ee70798d",
+                "alt": "çanta"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Color",
+                "slug": "pa_color",
+                "position": 0,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "Black",
+                    "Blue",
+                    "Light-Blue",
+                    "Red"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Size",
+                "slug": "pa_size",
+                "position": 1,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "Extra Large",
+                    "Large",
+                    "Medium",
+                    "Small"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8378;</span>399,00</bdi></span>",
+        "related_ids": [],
+        "meta_data": [
+            {
+                "id": 5866,
+                "key": "_porto_demo",
+                "value": "elementor-shop7#986"
+            },
+            {
+                "id": 5867,
+                "key": "dfiFeatured",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "id": 5868,
+                "key": "slide_template",
+                "value": ""
+            },
+            {
+                "id": 5869,
+                "key": "_download_type",
+                "value": ""
+            },
+            {
+                "id": 5870,
+                "key": "swatch_options",
+                "value": {
+                    "17a156306086df4aace4049827aa12a2": {
+                        "size": "swatches_image_size",
+                        "attributes": {
+                            "1ffd9e753c8054cc61456ac7fac1ac89": {
+                                "image": "0"
+                            },
+                            "bda9643ac6601722a28f238714274da4": {
+                                "image": "0"
+                            },
+                            "26c7167834adf9694578d2ec663d6d8f": {
+                                "image": "0"
+                            }
+                        }
+                    },
+                    "5a8b913ebbdf432784bd7f456bbf40ce": {
+                        "type": "default",
+                        "size": "swatches_image_size",
+                        "attributes": {
+                            "559dbbbfe921c0e4d9c0bfa76313c148": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "afacdb0a401ccdf6b48551bbc00e8a74": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "075a3e36a0a52dcbc568c05788e8a713": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "eb5c1399a871211c7e7ed732d15e3a8b": {
+                                "color": "",
+                                "image": "0"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 5871,
+                "key": "product_image_on_hover",
+                "value": "yes"
+            },
+            {
+                "id": 5872,
+                "key": "custom_tab_priority1",
+                "value": "40"
+            },
+            {
+                "id": 5873,
+                "key": "custom_tab_priority2",
+                "value": "41"
+            },
+            {
+                "id": 5874,
+                "key": "header_view",
+                "value": "default"
+            },
+            {
+                "id": 5875,
+                "key": "layout",
+                "value": "right-sidebar"
+            },
+            {
+                "id": 5876,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products/2440"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2437,
+        "name": "Saat",
+        "slug": "saat",
+        "permalink": "https://www.soomaskart.com/product/saat/",
+        "date_created": "2024-03-09T08:48:48",
+        "date_created_gmt": "2024-03-09T08:48:48",
+        "date_modified": "2024-03-09T08:49:56",
+        "date_modified_gmt": "2024-03-09T08:49:56",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Saat</p>\n<p>SK.5423.796767.78</p>\n",
+        "short_description": "",
+        "sku": "PT0003-4",
+        "price": "300",
+        "regular_price": "300",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": 0,
+        "download_expiry": 0,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 83,
+                "name": "SAAT",
+                "slug": "watches"
+            }
+        ],
+        "tags": [
+            {
+                "id": 128,
+                "name": "saat",
+                "slug": "saat"
+            }
+        ],
+        "images": [
+            {
+                "id": 2438,
+                "date_created": "2024-03-09T08:49:31",
+                "date_created_gmt": "2024-03-09T08:49:31",
+                "date_modified": "2024-03-09T08:49:35",
+                "date_modified_gmt": "2024-03-09T08:49:35",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2024/03/4323-tfa-60-1019-sessiz-calisan-analog-calar-saat-1019-1019.jpg",
+                "name": "4323-tfa-60-1019-sessiz-calisan-analog-calar-saat-1019-1019",
+                "alt": "saat"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Color",
+                "slug": "pa_color",
+                "position": 0,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "Black",
+                    "Blue",
+                    "Light-Blue",
+                    "Red"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Size",
+                "slug": "pa_size",
+                "position": 1,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "Extra Large",
+                    "Large",
+                    "Medium",
+                    "Small"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8378;</span>300,00</bdi></span>",
+        "related_ids": [],
+        "meta_data": [
+            {
+                "id": 5830,
+                "key": "_porto_demo",
+                "value": "elementor-shop7#986"
+            },
+            {
+                "id": 5831,
+                "key": "dfiFeatured",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "id": 5832,
+                "key": "slide_template",
+                "value": ""
+            },
+            {
+                "id": 5833,
+                "key": "_download_type",
+                "value": ""
+            },
+            {
+                "id": 5834,
+                "key": "swatch_options",
+                "value": {
+                    "17a156306086df4aace4049827aa12a2": {
+                        "size": "swatches_image_size",
+                        "attributes": {
+                            "1ffd9e753c8054cc61456ac7fac1ac89": {
+                                "image": "0"
+                            },
+                            "bda9643ac6601722a28f238714274da4": {
+                                "image": "0"
+                            },
+                            "26c7167834adf9694578d2ec663d6d8f": {
+                                "image": "0"
+                            }
+                        }
+                    },
+                    "5a8b913ebbdf432784bd7f456bbf40ce": {
+                        "type": "default",
+                        "size": "swatches_image_size",
+                        "attributes": {
+                            "559dbbbfe921c0e4d9c0bfa76313c148": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "afacdb0a401ccdf6b48551bbc00e8a74": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "075a3e36a0a52dcbc568c05788e8a713": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "eb5c1399a871211c7e7ed732d15e3a8b": {
+                                "color": "",
+                                "image": "0"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 5835,
+                "key": "product_image_on_hover",
+                "value": "yes"
+            },
+            {
+                "id": 5836,
+                "key": "custom_tab_priority1",
+                "value": "40"
+            },
+            {
+                "id": 5837,
+                "key": "custom_tab_priority2",
+                "value": "41"
+            },
+            {
+                "id": 5838,
+                "key": "header_view",
+                "value": "default"
+            },
+            {
+                "id": 5839,
+                "key": "layout",
+                "value": "right-sidebar"
+            },
+            {
+                "id": 5845,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products/2437"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2434,
+        "name": "Erkek Tişört",
+        "slug": "erkek-tisort",
+        "permalink": "https://www.soomaskart.com/product/erkek-tisort/",
+        "date_created": "2024-03-09T08:45:08",
+        "date_created_gmt": "2024-03-09T08:45:08",
+        "date_modified": "2024-03-09T08:46:35",
+        "date_modified_gmt": "2024-03-09T08:46:35",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Erkek Tişört</p>\n<p>SK 53434.643.83619</p>\n",
+        "short_description": "",
+        "sku": "15615132-1",
+        "price": "129",
+        "regular_price": "129",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": 0,
+        "download_expiry": 0,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "23",
+        "dimensions": {
+            "length": "12",
+            "width": "31",
+            "height": "23"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 123,
+                "name": "GİYİM",
+                "slug": "giyim"
+            },
+            {
+                "id": 51,
+                "name": "Kıyafet",
+                "slug": "dress"
+            }
+        ],
+        "tags": [
+            {
+                "id": 127,
+                "name": "tişört",
+                "slug": "tisort"
+            }
+        ],
+        "images": [
+            {
+                "id": 2435,
+                "date_created": "2024-03-09T08:46:31",
+                "date_created_gmt": "2024-03-09T08:46:31",
+                "date_modified": "2024-03-09T08:46:31",
+                "date_modified_gmt": "2024-03-09T08:46:31",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2024/03/tisort.jpg",
+                "name": "tişört",
+                "alt": ""
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Color",
+                "slug": "pa_color",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Black",
+                    "Blue",
+                    "Indigo"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Size",
+                "slug": "pa_size",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Large",
+                    "Medium",
+                    "Small"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8378;</span>129,00</bdi></span>",
+        "related_ids": [
+            969,
+            972,
+            2430
+        ],
+        "meta_data": [
+            {
+                "id": 5793,
+                "key": "_porto_demo",
+                "value": "elementor-shop7#970"
+            },
+            {
+                "id": 5794,
+                "key": "dfiFeatured",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "id": 5795,
+                "key": "_download_type",
+                "value": ""
+            },
+            {
+                "id": 5796,
+                "key": "slide_template",
+                "value": ""
+            },
+            {
+                "id": 5797,
+                "key": "product_image_on_hover",
+                "value": "yes"
+            },
+            {
+                "id": 5798,
+                "key": "custom_tab_priority1",
+                "value": "40"
+            },
+            {
+                "id": 5799,
+                "key": "custom_tab_priority2",
+                "value": "41"
+            },
+            {
+                "id": 5800,
+                "key": "header_view",
+                "value": "default"
+            },
+            {
+                "id": 5801,
+                "key": "layout",
+                "value": "right-sidebar"
+            },
+            {
+                "id": 5802,
+                "key": "_wp_page_template",
+                "value": "default"
+            },
+            {
+                "id": 5804,
+                "key": "product_layout",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products/2434"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2430,
+        "name": "Jeans Mavi Kot",
+        "slug": "jeans-mavi-kot",
+        "permalink": "https://www.soomaskart.com/product/jeans-mavi-kot/",
+        "date_created": "2024-03-09T08:41:15",
+        "date_created_gmt": "2024-03-09T08:41:15",
+        "date_modified": "2024-03-09T08:43:14",
+        "date_modified_gmt": "2024-03-09T08:43:14",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Jeans Mavi Kot</p>\n<p>SK645.6534.7175</p>\n",
+        "short_description": "",
+        "sku": "654111995-1-1-1-1",
+        "price": "449",
+        "regular_price": "449",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": true,
+        "downloads": [],
+        "download_limit": 0,
+        "download_expiry": 0,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "23",
+        "dimensions": {
+            "length": "12",
+            "width": "23",
+            "height": "56"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 51,
+                "name": "Kıyafet",
+                "slug": "dress"
+            }
+        ],
+        "tags": [
+            {
+                "id": 48,
+                "name": "Clothes",
+                "slug": "clothes"
+            },
+            {
+                "id": 55,
+                "name": "Fashion",
+                "slug": "fashion"
+            }
+        ],
+        "images": [
+            {
+                "id": 2431,
+                "date_created": "2024-03-09T08:42:40",
+                "date_created_gmt": "2024-03-09T08:42:40",
+                "date_modified": "2024-03-09T08:42:44",
+                "date_modified_gmt": "2024-03-09T08:42:44",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2024/03/mavikot.jpg",
+                "name": "mavikot",
+                "alt": "mavi"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Color",
+                "slug": "pa_color",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Green",
+                    "Indigo"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Size",
+                "slug": "pa_size",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Extra Large"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8378;</span>449,00</bdi></span>",
+        "related_ids": [
+            974,
+            969,
+            972,
+            971,
+            2434
+        ],
+        "meta_data": [
+            {
+                "id": 5753,
+                "key": "_porto_demo",
+                "value": "elementor-shop7#972"
+            },
+            {
+                "id": 5754,
+                "key": "dfiFeatured",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "id": 5755,
+                "key": "slide_template",
+                "value": ""
+            },
+            {
+                "id": 5756,
+                "key": "_download_type",
+                "value": ""
+            },
+            {
+                "id": 5757,
+                "key": "product_image_on_hover",
+                "value": "yes"
+            },
+            {
+                "id": 5758,
+                "key": "custom_tab_priority1",
+                "value": "40"
+            },
+            {
+                "id": 5759,
+                "key": "custom_tab_priority2",
+                "value": "41"
+            },
+            {
+                "id": 5760,
+                "key": "header_view",
+                "value": "default"
+            },
+            {
+                "id": 5761,
+                "key": "layout",
+                "value": "right-sidebar"
+            },
+            {
+                "id": 5767,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products/2430"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2427,
+        "name": "Erkek Kemer Tokalı",
+        "slug": "erkek-kemer-tokali",
+        "permalink": "https://www.soomaskart.com/product/erkek-kemer-tokali/",
+        "date_created": "2024-03-09T08:38:26",
+        "date_created_gmt": "2024-03-09T08:38:26",
+        "date_modified": "2024-03-09T08:40:03",
+        "date_modified_gmt": "2024-03-09T08:40:03",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Erkek Kemer Tokalı</p>\n<p>SK.5423.7665467.78</p>\n",
+        "short_description": "",
+        "sku": "PT0003-3",
+        "price": "599",
+        "regular_price": "599",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": 0,
+        "download_expiry": 0,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 37,
+                "name": "AKSESUAR",
+                "slug": "accessories"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 2428,
+                "date_created": "2024-03-09T08:39:35",
+                "date_created_gmt": "2024-03-09T08:39:35",
+                "date_modified": "2024-03-09T08:39:40",
+                "date_modified_gmt": "2024-03-09T08:39:40",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2024/03/kemer.jpg",
+                "name": "kemer",
+                "alt": "kemer"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Color",
+                "slug": "pa_color",
+                "position": 0,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "Black",
+                    "Blue",
+                    "Light-Blue",
+                    "Red"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Size",
+                "slug": "pa_size",
+                "position": 1,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "Extra Large",
+                    "Large",
+                    "Medium",
+                    "Small"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8378;</span>599,00</bdi></span>",
+        "related_ids": [
+            1028,
+            986,
+            969,
+            970,
+            974
+        ],
+        "meta_data": [
+            {
+                "id": 5706,
+                "key": "_porto_demo",
+                "value": "elementor-shop7#986"
+            },
+            {
+                "id": 5707,
+                "key": "dfiFeatured",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "id": 5708,
+                "key": "slide_template",
+                "value": ""
+            },
+            {
+                "id": 5709,
+                "key": "_download_type",
+                "value": ""
+            },
+            {
+                "id": 5710,
+                "key": "swatch_options",
+                "value": {
+                    "17a156306086df4aace4049827aa12a2": {
+                        "size": "swatches_image_size",
+                        "attributes": {
+                            "1ffd9e753c8054cc61456ac7fac1ac89": {
+                                "image": "0"
+                            },
+                            "bda9643ac6601722a28f238714274da4": {
+                                "image": "0"
+                            },
+                            "26c7167834adf9694578d2ec663d6d8f": {
+                                "image": "0"
+                            }
+                        }
+                    },
+                    "5a8b913ebbdf432784bd7f456bbf40ce": {
+                        "type": "default",
+                        "size": "swatches_image_size",
+                        "attributes": {
+                            "559dbbbfe921c0e4d9c0bfa76313c148": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "afacdb0a401ccdf6b48551bbc00e8a74": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "075a3e36a0a52dcbc568c05788e8a713": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "eb5c1399a871211c7e7ed732d15e3a8b": {
+                                "color": "",
+                                "image": "0"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 5711,
+                "key": "product_image_on_hover",
+                "value": "yes"
+            },
+            {
+                "id": 5712,
+                "key": "custom_tab_priority1",
+                "value": "40"
+            },
+            {
+                "id": 5713,
+                "key": "custom_tab_priority2",
+                "value": "41"
+            },
+            {
+                "id": 5714,
+                "key": "header_view",
+                "value": "default"
+            },
+            {
+                "id": 5715,
+                "key": "layout",
+                "value": "right-sidebar"
+            },
+            {
+                "id": 5721,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products/2427"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2424,
+        "name": "Siyah Deri Ayakkabı",
+        "slug": "siyah-deri-ayakkabi",
+        "permalink": "https://www.soomaskart.com/product/siyah-deri-ayakkabi/",
+        "date_created": "2024-03-09T08:35:52",
+        "date_created_gmt": "2024-03-09T08:35:52",
+        "date_modified": "2024-03-09T08:37:35",
+        "date_modified_gmt": "2024-03-09T08:37:35",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Siyah Deri Ayakkabı</p>\n<p>SKU: SJ100360.032</p>\n",
+        "short_description": "",
+        "sku": "PT0005-1",
+        "price": "999",
+        "regular_price": "999",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": 0,
+        "download_expiry": 0,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 10,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 73,
+                "name": "AYAKKABI",
+                "slug": "shoes"
+            }
+        ],
+        "tags": [
+            {
+                "id": 126,
+                "name": "deriayakkabı",
+                "slug": "deriayakkabi"
+            }
+        ],
+        "images": [
+            {
+                "id": 2425,
+                "date_created": "2024-03-09T08:37:08",
+                "date_created_gmt": "2024-03-09T08:37:08",
+                "date_modified": "2024-03-09T08:37:14",
+                "date_modified_gmt": "2024-03-09T08:37:14",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2024/03/siyah-erkek-spor-ayakkabi-2-02e8.webp",
+                "name": "siyah-erkek-spor-ayakkabi-2-02e8",
+                "alt": "deri"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 0,
+                "name": "color",
+                "slug": "color",
+                "position": 1,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "Black",
+                    "Blue",
+                    "Green",
+                    "Red"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Size",
+                "slug": "pa_size",
+                "position": 2,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "Extra Large",
+                    "Large",
+                    "Medium",
+                    "Small"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8378;</span>999,00</bdi></span>",
+        "related_ids": [
+            975,
+            996
+        ],
+        "meta_data": [
+            {
+                "id": 5669,
+                "key": "_porto_demo",
+                "value": "elementor-shop7#996"
+            },
+            {
+                "id": 5670,
+                "key": "dfiFeatured",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "id": 5671,
+                "key": "slide_template",
+                "value": ""
+            },
+            {
+                "id": 5672,
+                "key": "_download_type",
+                "value": ""
+            },
+            {
+                "id": 5673,
+                "key": "swatch_options",
+                "value": {
+                    "70dda5dfb8053dc6d1c492574bce9bfd": {
+                        "type": "image",
+                        "size": "swatches_image_size",
+                        "attributes": {
+                            "1ffd9e753c8054cc61456ac7fac1ac89": {
+                                "color": "",
+                                "image": "1394"
+                            },
+                            "9f27410725ab8cc8854a2769c7a516b8": {
+                                "color": "",
+                                "image": "1401"
+                            },
+                            "bda9643ac6601722a28f238714274da4": {
+                                "color": "",
+                                "image": "1400"
+                            }
+                        }
+                    },
+                    "5a8b913ebbdf432784bd7f456bbf40ce": {
+                        "type": "default",
+                        "size": "swatches_image_size",
+                        "attributes": {
+                            "559dbbbfe921c0e4d9c0bfa76313c148": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "afacdb0a401ccdf6b48551bbc00e8a74": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "075a3e36a0a52dcbc568c05788e8a713": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "eb5c1399a871211c7e7ed732d15e3a8b": {
+                                "color": "",
+                                "image": "0"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 5674,
+                "key": "product_image_on_hover",
+                "value": "yes"
+            },
+            {
+                "id": 5675,
+                "key": "custom_tab_priority1",
+                "value": "40"
+            },
+            {
+                "id": 5676,
+                "key": "custom_tab_priority2",
+                "value": "41"
+            },
+            {
+                "id": 5677,
+                "key": "header_view",
+                "value": "default"
+            },
+            {
+                "id": 5678,
+                "key": "layout",
+                "value": "right-sidebar"
+            },
+            {
+                "id": 5684,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products/2424"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2420,
+        "name": "Kırmızı Ruj",
+        "slug": "kirmizi-ruj",
+        "permalink": "https://www.soomaskart.com/product/kirmizi-ruj/",
+        "date_created": "2024-03-09T08:35:00",
+        "date_created_gmt": "2024-03-09T08:35:00",
+        "date_modified": "2024-03-09T08:35:00",
+        "date_modified_gmt": "2024-03-09T08:35:00",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Kırmızı Ruj</p>\n<p>SK: 4546.78765.1223</p>\n",
+        "short_description": "",
+        "sku": "",
+        "price": "49",
+        "regular_price": "49",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": false,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 40,
+                "name": "MAKYAJ",
+                "slug": "beauty"
+            }
+        ],
+        "tags": [
+            {
+                "id": 125,
+                "name": "kırmızıruj",
+                "slug": "kirmiziruj"
+            }
+        ],
+        "images": [
+            {
+                "id": 2421,
+                "date_created": "2024-03-09T08:34:42",
+                "date_created_gmt": "2024-03-09T08:34:42",
+                "date_modified": "2024-03-09T08:34:46",
+                "date_modified_gmt": "2024-03-09T08:34:46",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2024/03/220656_1_large.webp",
+                "name": "220656_1_large",
+                "alt": "ruj"
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8378;</span>49,00</bdi></span>",
+        "related_ids": [
+            2445
+        ],
+        "meta_data": [
+            {
+                "id": 5619,
+                "key": "_wp_page_template",
+                "value": "default"
+            },
+            {
+                "id": 5637,
+                "key": "dfiFeatured",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "id": 5638,
+                "key": "product_image_on_hover",
+                "value": "yes"
+            },
+            {
+                "id": 5639,
+                "key": "custom_tab_priority1",
+                "value": "40"
+            },
+            {
+                "id": 5640,
+                "key": "custom_tab_priority2",
+                "value": "41"
+            },
+            {
+                "id": 5641,
+                "key": "header_view",
+                "value": "default"
+            },
+            {
+                "id": 5642,
+                "key": "layout",
+                "value": "right-sidebar"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products/2420"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 1028,
+        "name": "Siyah Gezegen Gözlük",
+        "slug": "silver-porto-headset",
+        "permalink": "https://www.soomaskart.com/product/silver-porto-headset/",
+        "date_created": "2018-04-09T02:45:57",
+        "date_created_gmt": "2018-04-09T02:45:57",
+        "date_modified": "2024-03-05T14:50:08",
+        "date_modified_gmt": "2024-03-05T14:50:08",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>SJG23107.3177.9285</p>\n<p>Siyah Gezegen Gözlük</p>\n",
+        "short_description": "",
+        "sku": "PT0003-2",
+        "price": "999",
+        "regular_price": "999",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": 0,
+        "download_expiry": 0,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 37,
+                "name": "AKSESUAR",
+                "slug": "accessories"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 1433,
+                "date_created": "2018-04-10T10:16:05",
+                "date_created_gmt": "2018-04-10T10:16:05",
+                "date_modified": "2018-04-10T10:16:05",
+                "date_modified_gmt": "2018-04-10T10:16:05",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2018/04/product-97-grey.jpg",
+                "name": "product-97-grey",
+                "alt": ""
+            },
+            {
+                "id": 1432,
+                "date_created": "2018-04-10T10:16:00",
+                "date_created_gmt": "2018-04-10T10:16:00",
+                "date_modified": "2018-04-10T10:16:00",
+                "date_modified_gmt": "2018-04-10T10:16:00",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2018/04/product-97-2-grey.jpg",
+                "name": "product-97-2-grey",
+                "alt": ""
+            },
+            {
+                "id": 1435,
+                "date_created": "2018-04-10T10:16:15",
+                "date_created_gmt": "2018-04-10T10:16:15",
+                "date_modified": "2018-04-10T10:16:15",
+                "date_modified_gmt": "2018-04-10T10:16:15",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2018/04/product-58-grey.jpg",
+                "name": "product-58-grey",
+                "alt": ""
+            },
+            {
+                "id": 1434,
+                "date_created": "2018-04-10T10:16:10",
+                "date_created_gmt": "2018-04-10T10:16:10",
+                "date_modified": "2018-04-10T10:16:10",
+                "date_modified_gmt": "2018-04-10T10:16:10",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2018/04/product-58-2-grey.jpg",
+                "name": "product-58-2-grey",
+                "alt": ""
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Color",
+                "slug": "pa_color",
+                "position": 0,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "Black",
+                    "Blue",
+                    "Green",
+                    "Indigo",
+                    "Light-Blue",
+                    "Red"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Size",
+                "slug": "pa_size",
+                "position": 1,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "Extra Large",
+                    "Large",
+                    "Medium",
+                    "Small"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Brand",
+                "slug": "pa_brand",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Adidas"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8378;</span>999,00</bdi></span>",
+        "related_ids": [
+            986,
+            2427,
+            970,
+            969,
+            974
+        ],
+        "meta_data": [
+            {
+                "id": 1306,
+                "key": "_porto_demo",
+                "value": "elementor-shop7#1028"
+            },
+            {
+                "id": 1308,
+                "key": "dfiFeatured",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "id": 1342,
+                "key": "slide_template",
+                "value": ""
+            },
+            {
+                "id": 1347,
+                "key": "_download_type",
+                "value": ""
+            },
+            {
+                "id": 1354,
+                "key": "swatch_options",
+                "value": {
+                    "17a156306086df4aace4049827aa12a2": {
+                        "size": "swatches_image_size",
+                        "attributes": {
+                            "1ffd9e753c8054cc61456ac7fac1ac89": {
+                                "image": "0"
+                            },
+                            "48d6215903dff56238e52e8891380c8f": {
+                                "image": "0"
+                            },
+                            "8a99d28c3c43cafed58cdbac5f4e9201": {
+                                "image": "0"
+                            },
+                            "bda9643ac6601722a28f238714274da4": {
+                                "image": "0"
+                            },
+                            "26c7167834adf9694578d2ec663d6d8f": {
+                                "image": "0"
+                            }
+                        }
+                    },
+                    "5a8b913ebbdf432784bd7f456bbf40ce": {
+                        "type": "default",
+                        "size": "swatches_image_size",
+                        "attributes": {
+                            "559dbbbfe921c0e4d9c0bfa76313c148": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "afacdb0a401ccdf6b48551bbc00e8a74": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "075a3e36a0a52dcbc568c05788e8a713": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "eb5c1399a871211c7e7ed732d15e3a8b": {
+                                "color": "",
+                                "image": "0"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 5367,
+                "key": "product_image_on_hover",
+                "value": "yes"
+            },
+            {
+                "id": 5368,
+                "key": "custom_tab_priority1",
+                "value": "40"
+            },
+            {
+                "id": 5369,
+                "key": "custom_tab_priority2",
+                "value": "41"
+            },
+            {
+                "id": 5370,
+                "key": "header_view",
+                "value": "default"
+            },
+            {
+                "id": 5371,
+                "key": "layout",
+                "value": "right-sidebar"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products/1028"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 991,
+        "name": "Erkek Jüpiter Şapka",
+        "slug": "porto-sticky-info",
+        "permalink": "https://www.soomaskart.com/product/porto-sticky-info/",
+        "date_created": "2018-04-09T02:45:09",
+        "date_created_gmt": "2018-04-09T02:45:09",
+        "date_modified": "2024-03-05T14:55:58",
+        "date_modified_gmt": "2024-03-05T14:55:58",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>SJ23507.3127.9281</p>\n<p>Erkek Jüpiter Şapka</p>\n",
+        "short_description": "",
+        "sku": "PT0003-1",
+        "price": "799.9",
+        "regular_price": "799.9",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": 0,
+        "download_expiry": 0,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 47,
+                "name": "ŞAPKA",
+                "slug": "caps"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 1397,
+                "date_created": "2018-04-10T07:50:28",
+                "date_created_gmt": "2018-04-10T07:50:28",
+                "date_modified": "2018-04-10T07:50:28",
+                "date_modified_gmt": "2018-04-10T07:50:28",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2018/04/product-33-grey.jpg",
+                "name": "product-33-grey",
+                "alt": ""
+            },
+            {
+                "id": 1396,
+                "date_created": "2018-04-10T07:50:23",
+                "date_created_gmt": "2018-04-10T07:50:23",
+                "date_modified": "2018-04-10T07:50:23",
+                "date_modified_gmt": "2018-04-10T07:50:23",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2018/04/product-33-2-grey.jpg",
+                "name": "product-33-2-grey",
+                "alt": ""
+            },
+            {
+                "id": 1410,
+                "date_created": "2018-04-10T07:51:29",
+                "date_created_gmt": "2018-04-10T07:51:29",
+                "date_modified": "2018-04-10T07:51:29",
+                "date_modified_gmt": "2018-04-10T07:51:29",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2018/04/product-102-grey.jpg",
+                "name": "product-102-grey",
+                "alt": ""
+            },
+            {
+                "id": 1409,
+                "date_created": "2018-04-10T07:51:24",
+                "date_created_gmt": "2018-04-10T07:51:24",
+                "date_modified": "2018-04-10T07:51:24",
+                "date_modified_gmt": "2018-04-10T07:51:24",
+                "src": "https://www.soomaskart.com/wp-content/uploads/2018/04/product-102-2-grey.jpg",
+                "name": "product-102-2-grey",
+                "alt": ""
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Color",
+                "slug": "pa_color",
+                "position": 0,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "Black",
+                    "Blue",
+                    "Red"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Size",
+                "slug": "pa_size",
+                "position": 1,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "Extra Large",
+                    "Large",
+                    "Medium",
+                    "Small"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8378;</span>799,90</bdi></span>",
+        "related_ids": [
+            971
+        ],
+        "meta_data": [
+            {
+                "id": 1156,
+                "key": "_porto_demo",
+                "value": "elementor-shop7#991"
+            },
+            {
+                "id": 1157,
+                "key": "dfiFeatured",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "id": 1180,
+                "key": "swatch_options",
+                "value": {
+                    "17a156306086df4aace4049827aa12a2": {
+                        "size": "swatches_image_size",
+                        "attributes": {
+                            "1ffd9e753c8054cc61456ac7fac1ac89": {
+                                "image": "0"
+                            },
+                            "48d6215903dff56238e52e8891380c8f": {
+                                "image": "0"
+                            },
+                            "bda9643ac6601722a28f238714274da4": {
+                                "image": "0"
+                            }
+                        }
+                    },
+                    "5a8b913ebbdf432784bd7f456bbf40ce": {
+                        "type": "default",
+                        "size": "swatches_image_size",
+                        "attributes": {
+                            "559dbbbfe921c0e4d9c0bfa76313c148": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "afacdb0a401ccdf6b48551bbc00e8a74": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "075a3e36a0a52dcbc568c05788e8a713": {
+                                "color": "",
+                                "image": "0"
+                            },
+                            "eb5c1399a871211c7e7ed732d15e3a8b": {
+                                "color": "",
+                                "image": "0"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 1191,
+                "key": "slide_template",
+                "value": ""
+            },
+            {
+                "id": 1196,
+                "key": "_download_type",
+                "value": ""
+            },
+            {
+                "id": 5374,
+                "key": "product_image_on_hover",
+                "value": "yes"
+            },
+            {
+                "id": 5375,
+                "key": "custom_tab_priority1",
+                "value": "40"
+            },
+            {
+                "id": 5376,
+                "key": "custom_tab_priority2",
+                "value": "41"
+            },
+            {
+                "id": 5377,
+                "key": "header_view",
+                "value": "default"
+            },
+            {
+                "id": 5378,
+                "key": "layout",
+                "value": "right-sidebar"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products/991"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.soomaskart.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    }
+]
